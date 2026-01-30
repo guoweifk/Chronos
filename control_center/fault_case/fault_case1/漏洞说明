@@ -1,0 +1,25 @@
+漏洞名称：
+PFCP Session 建立请求中 PDN Type 字段非法导致 UPF 崩溃（协议字段非法输入触发异常）
+
+漏洞类型：
+输入验证缺陷 / 协议字段合法性校验不足
+（非法参数进入协议解析逻辑 → 断言失败 → 服务崩溃）
+
+影响组件：
+Open5GS UPF（v2.7.2，容器化部署）
+
+运行环境：
+Ubuntu 20.04 / Docker
+
+漏洞机理：
+在处理 PFCP Session Establishment Request 时，消息中的 PDN Type 字段被设置为无效值（0）。
+UPF 的 PFCP 协议解析模块未对该字段进行合法性校验，直接进入内部处理分支，导致 UPF 内部触发断言失败（assert fault），最终引发进程崩溃。
+
+根本原因：
+未对 PFCP 中 PDN Type 字段进行正确的输入合法性检查，非法参数最终进入关键逻辑，引发服务退出。
+
+触发方式：
+向 UPF 发送携带无效 PDN Type=0 的 PFCP Session Establishment Request（可通过自定义 PFCP 构造器或异常控制面模拟器构造）。
+
+结果：
+UPF 进程崩溃，所有依赖该 UPF 的用户面数据转发全部中断，UE 无法发送/接收网络数据。

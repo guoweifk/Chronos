@@ -1,0 +1,84 @@
+{
+  "192.168.41.5": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "UDR": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "UDM": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "SCP": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "NRF": {
+        "enable": true,
+        "egress": {
+          "rate": "400kbit",
+          "burst": "400kbit",
+          "limit": "400k"
+        },
+        "ingress": {
+          "rate": "400kbit",
+          "burst": "400k",
+          "drop": true
+        }
+      }
+    }
+  }
+}

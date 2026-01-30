@@ -1,0 +1,174 @@
+===== 开始记录完整流程日志 =====
+
+
+===== 实验用例流程启动 =====
+
+=== 初始完整地形 ===
+节点: ['MONGO', 'MYSQL', 'METRICS', 'WEBUI', 'DNS', 'SMF', 'UPF', 'AMF', 'AUSF', 'NRF', 'UDM', 'UDR', 'PCF', 'NSSF', 'BSF', 'SCP', 'SRS_ENB', 'NR_GNB', 'OAI_ENB', 'SRS_GNB', 'UE']
+边:
+AMF -- AUSF
+AMF -- DNS
+AMF -- NRF
+AMF -- NR_GNB
+AMF -- NSSF
+AMF -- PCF
+AMF -- SCP
+AMF -- SMF
+AMF -- SRS_GNB
+AMF -- UDM
+AMF -- UE
+AUSF -- NRF
+AUSF -- SCP
+AUSF -- UDM
+BSF -- ENTITLEMENT_SERVER
+BSF -- NRF
+BSF -- PCF
+BSF -- SCP
+BSF -- SMF
+DNS -- HSS
+DNS -- MME
+DNS -- NRF
+DNS -- PCF
+DNS -- SMF
+DNS -- UDM
+DNS -- UPF
+MME -- OAI_ENB
+MME -- SRS_ENB
+MONGO -- WEBUI
+MYSQL -- PYHSS
+NRF -- NSSF
+NRF -- PCF
+NRF -- SCP
+NRF -- SMF
+NRF -- UDM
+NRF -- UDR
+NR_GNB -- UE
+NSSF -- PCF
+NSSF -- SCP
+PCF -- SCP
+PCF -- SMF
+PCF -- UDR
+SCP -- SMF
+SCP -- UDM
+SGWU -- UPF
+SMF -- UDM
+SMF -- UPF
+SRS_ENB -- UE
+SRS_GNB -- UE
+UDM -- UDR
+
+[全过程记录表已生成] 初始拓扑已记录到 full_run_log
+
+
+[故障状态] 初始状态无故障
+
+
+[扰动开始] 尚未注入扰动
+
+
+[扰动开始] 2025-11-22 18:37:11 开始执行扰动注入（仅一次）...
+[扰动开始] 2025-11-22 18:37:12 生命周期管理缺陷类扰动注入完成。
+
+
+[扰动过程监控] 正在监听网元状态变化...
+
+
+[扰动过程监控] 当前在线网元状态（每10秒输出一次）:
+ - SMF  RUNNING
+ - AMF2  RUNNING
+ - AMF  RUNNING
+ - UDR  RUNNING
+ - PCF  RUNNING
+ - UDM  RUNNING
+ - AUSF  RUNNING
+ - NSSF  RUNNING
+ - SCP  RUNNING
+ - WEBUI  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - MONGO  RUNNING
+ - METRICS  RUNNING
+[扰动过程监控] 当前暂无故障，一切运行正常。
+
+[扰动过程监控] 当前实时地形:
+   MYSQL -- PYHSS
+   MONGO -- WEBUI
+   AMF -- DNS
+   DNS -- HSS
+   DNS -- NRF
+   DNS -- MME
+   DNS -- UDM
+   DNS -- PCF
+   DNS -- SMF
+   DNS -- UPF
+   PCF -- SMF
+   AMF -- SMF
+   SMF -- UPF
+   NRF -- SMF
+   BSF -- SMF
+   SMF -- UDM
+   SGWU -- UPF
+   AMF -- NSSF
+   AMF -- NR_GNB
+   AMF -- NRF
+   AMF -- UDM
+   AMF -- AUSF
+   AMF -- PCF
+   AMF -- UE
+   AMF -- SRS_GNB
+   AUSF -- NRF
+   AUSF -- UDM
+   NRF -- NSSF
+   NRF -- UDM
+   NRF -- PCF
+   NRF -- SCP
+   NRF -- UDR
+   BSF -- NRF
+   UDM -- UDR
+   PCF -- UDR
+   NSSF -- PCF
+   BSF -- PCF
+   BSF -- ENTITLEMENT_SERVER
+   NSSF -- SCP
+   AMF -- SCP
+   SCP -- UDM
+   AUSF -- SCP
+   PCF -- SCP
+   SCP -- SMF
+   BSF -- SCP
+   MME -- SRS_ENB
+   SRS_ENB -- UE
+   NR_GNB -- UE
+   MME -- OAI_ENB
+   SRS_GNB -- UE
+[扰动过程监控] 当前已注入扰动配置
+
+[故障状态] 发现异常网元: ['AMF  EXITED']
+[故障状态] 已记录故障状态到文件: fault_event_20251122_183732.txt
+
+[处理后故障节点]: ['AMF']
+
+[故障状态] 生成失败节点拓扑...
+
+
+=== 故障节点关键地形 ===
+节点: {'AMF', 'NSSF', 'NR_GNB', 'NRF', 'DNS', 'UDM', 'AUSF', 'PCF', 'SMF', 'UE', 'SCP', 'SRS_GNB'}
+边:
+AMF -- AUSF
+AMF -- DNS
+AMF -- NRF
+AMF -- NR_GNB
+AMF -- NSSF
+AMF -- PCF
+AMF -- SCP
+AMF -- SMF
+AMF -- SRS_GNB
+AMF -- UDM
+AMF -- UE
+
+[全过程记录表已生成] 故障关键地形已记录到 full_run_log
+
+
+===== 测试结束 =====
+
+{'initial': (['MONGO', 'MYSQL', 'METRICS', 'WEBUI', 'DNS', 'SMF', 'UPF', 'AMF', 'AUSF', 'NRF', 'UDM', 'UDR', 'PCF', 'NSSF', 'BSF', 'SCP', 'SRS_ENB', 'NR_GNB', 'OAI_ENB', 'SRS_GNB', 'UE'], [('AMF', 'AUSF'), ('AMF', 'DNS'), ('AMF', 'NRF'), ('AMF', 'NR_GNB'), ('AMF', 'NSSF'), ('AMF', 'PCF'), ('AMF', 'SCP'), ('AMF', 'SMF'), ('AMF', 'SRS_GNB'), ('AMF', 'UDM'), ('AMF', 'UE'), ('AUSF', 'NRF'), ('AUSF', 'SCP'), ('AUSF', 'UDM'), ('BSF', 'ENTITLEMENT_SERVER'), ('BSF', 'NRF'), ('BSF', 'PCF'), ('BSF', 'SCP'), ('BSF', 'SMF'), ('DNS', 'HSS'), ('DNS', 'MME'), ('DNS', 'NRF'), ('DNS', 'PCF'), ('DNS', 'SMF'), ('DNS', 'UDM'), ('DNS', 'UPF'), ('MME', 'OAI_ENB'), ('MME', 'SRS_ENB'), ('MONGO', 'WEBUI'), ('MYSQL', 'PYHSS'), ('NRF', 'NSSF'), ('NRF', 'PCF'), ('NRF', 'SCP'), ('NRF', 'SMF'), ('NRF', 'UDM'), ('NRF', 'UDR'), ('NR_GNB', 'UE'), ('NSSF', 'PCF'), ('NSSF', 'SCP'), ('PCF', 'SCP'), ('PCF', 'SMF'), ('PCF', 'UDR'), ('SCP', 'SMF'), ('SCP', 'UDM'), ('SGWU', 'UPF'), ('SMF', 'UDM'), ('SMF', 'UPF'), ('SRS_ENB', 'UE'), ('SRS_GNB', 'UE'), ('UDM', 'UDR')]), 'failed_nodes': ['AMF'], 'failure_graph': (['AMF', 'AUSF', 'DNS', 'NRF', 'NR_GNB', 'NSSF', 'PCF', 'SCP', 'SMF', 'SRS_GNB', 'UDM', 'UE'], [('AMF', 'AUSF'), ('AMF', 'DNS'), ('AMF', 'NRF'), ('AMF', 'NR_GNB'), ('AMF', 'NSSF'), ('AMF', 'PCF'), ('AMF', 'SCP'), ('AMF', 'SMF'), ('AMF', 'SRS_GNB'), ('AMF', 'UDM'), ('AMF', 'UE')])}

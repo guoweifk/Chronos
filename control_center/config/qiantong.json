@@ -1,0 +1,84 @@
+{
+  "192.168.55.78": [
+    {
+      "container": "ausf",
+      "direction": "uplink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "ausf",
+      "direction": "downlink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "amf",
+      "direction": "uplink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "amf",
+      "direction": "downlink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "smf",
+      "direction": "uplink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "smf",
+      "direction": "downlink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "udm",
+      "direction": "uplink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "udm",
+      "direction": "downlink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "nrf",
+      "direction": "uplink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    },
+    {
+      "container": "nrf",
+      "direction": "downlink",
+      "delay": "1000ms",
+      "rate": "1000kbit",
+      "burst": "1000kbit",
+      "loss": "20%"
+    }
+  ]
+}

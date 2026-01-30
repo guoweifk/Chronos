@@ -1,0 +1,12 @@
+{
+  "192.168.55.244": [
+    {
+      "action": "start",
+      "target_cf": "SMF",
+      "target_port": "9000",
+      "rate": "500",
+      "count": 0,
+      "interval": 0.01
+    }
+  ]
+}

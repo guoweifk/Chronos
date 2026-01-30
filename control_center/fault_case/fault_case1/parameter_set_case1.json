@@ -1,0 +1,32 @@
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}

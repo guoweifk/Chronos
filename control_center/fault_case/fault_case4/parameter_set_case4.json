@@ -1,0 +1,97 @@
+{
+  "192.168.80.6": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "200kbit",
+          "burst": "200kbit",
+          "limit": "200k"
+        },
+        "ingress": {
+          "rate": "200kbit",
+          "burst": "200k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "2300kbit",
+          "burst": "2300kbit",
+          "limit": "2300k"
+        },
+        "ingress": {
+          "rate": "2300kbit",
+          "burst": "2300k",
+          "drop": true
+        }
+      },
+      "UDR": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "UDM": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "AUSF": {
+        "enable": true,
+        "egress": {
+          "rate": "1300kbit",
+          "burst": "1300kbit",
+          "limit": "1300k"
+        },
+        "ingress": {
+          "rate": "1300kbit",
+          "burst": "1300k",
+          "drop": true
+        }
+      },
+      "SCP": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "NRF": {
+        "enable": true,
+        "egress": {
+          "rate": "1400kbit",
+          "burst": "1400kbit",
+          "limit": "1400k"
+        },
+        "ingress": {
+          "rate": "1400kbit",
+          "burst": "1400k",
+          "drop": true
+        }
+      }
+    }
+  }
+}

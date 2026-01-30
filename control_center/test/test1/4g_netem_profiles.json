@@ -1,0 +1,84 @@
+{
+  "192.168.41.6": {
+    "services": {
+      "MME": {
+        "enable": true,
+        "egress": {
+          "rate": "50kbit",
+          "burst": "10kbit",
+          "limit": "10k"
+        },
+        "ingress": {
+          "rate": "50kbit",
+          "burst": "50k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      },
+      "SGWC": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "5000kbit",
+          "burst": "5000k",
+          "drop": true
+        }
+      },
+      "SGWU": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "5000kbit",
+          "burst": "5000k",
+          "drop": true
+        }
+      },
+        "PCRF": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "5000kbit",
+          "burst": "5000k",
+          "drop": true
+        }
+      },
+        "HSS": {
+        "enable": true,
+        "egress": {
+          "rate": "2000kbit",
+          "burst": "2000kbit",
+          "limit": "2000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      }
+    }
+  }
+}

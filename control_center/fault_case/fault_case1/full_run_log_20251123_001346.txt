@@ -1,0 +1,36 @@
+===== 开始记录完整流程日志（长监听 + 扰动控制模式） =====
+
+
+===== 长监听任务启动 =====
+===== 扰动控制 Web 服务启动 =====
+说明：
+[监听配置] python_cmd_path = python_cmd.json
+[监听配置] netem_config_path = parameter_set_case1.json
+  - 调用 /attack/start 触发一次 HTTP 扰动注入；
+  - 调用 /attack/status 查看当前扰动状态；
+[监听配置] storage_dir = storage
+
+
+  - 监控线程会根据扰动状态，持续打印不同的过程描述。
+
+[扰动配置] 已检测到扰动参数文件（parameter_set）：
+ * Serving Flask app 'run_fault_case1'
+ * Debug mode: off
+
+[故障状态] 检测到异常网元: ['UPF']
+
+[故障状态] 生成失败节点关键地形...
+
+
+=== 故障节点关键地形 ===
+节点: {'SMF', 'UPF', 'SGWU', 'DNS'}
+边:
+DNS -- UPF
+SGWU -- UPF
+SMF -- UPF
+[故障状态] 故障关键地形已写入: storage\failure_subgraph_20251123_001346.txt
+
+已注入扰动，目标网络发生故障。
+关系内禀随机性对应的扰动生效，目标网络UPF网元程序崩溃。
+[全过程结束] 已捕获故障节点及关键地形，监听任务结束。
+

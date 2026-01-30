@@ -1,0 +1,449 @@
+===== 开始记录完整流程日志（长监听模式） =====
+
+
+===== 长监听任务启动 =====
+
+[监听配置] python_cmd_path = python_cmd.json
+[监听配置] netem_config_path = parameter_set_case1.json
+[监听配置] storage_dir = storage
+
+[扰动状态] 已检测到扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 生成失败节点关键地形...
+
+[警告] 失败节点 F 不在拓扑中，跳过。
+[故障状态] 故障关键地形已写入: storage\failure_subgraph_20251122_191317.txt
+
+[关键地形] 当前 minimal_subgraph 已更新并写入: storage\minimal_subgraph_latest.txt
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  EXITED
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前存在故障网元: ['F']
+[扰动状态] 当前扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  EXITED
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前存在故障网元: ['F']
+[扰动状态] 当前扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  EXITED
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前存在故障网元: ['F']
+[扰动状态] 当前扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  EXITED
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前存在故障网元: ['F']
+[扰动状态] 当前扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  EXITED
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前存在故障网元: ['F']
+[扰动状态] 当前扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  EXITED
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前存在故障网元: ['F']
+[扰动状态] 当前扰动配置（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']
+
+[故障状态] 检测到异常网元: ['F']

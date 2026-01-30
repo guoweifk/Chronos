@@ -1,0 +1,84 @@
+{
+  "192.168.53.198": {
+    "services": {
+      "amf": {
+        "enable": true,
+        "egress": {
+          "rate": "10kbit",
+          "burst": "10kbit",
+          "limit": "10k"
+        },
+        "ingress": {
+          "rate": "10kbit",
+          "burst": "10k",
+          "drop": true
+        }
+      },
+      "udm": {
+        "enable": true,
+        "egress": {
+          "rate": "10kbit",
+          "burst": "10kbit",
+          "limit": "10k"
+        },
+        "ingress": {
+          "rate": "10kbit",
+          "burst": "10k",
+          "drop": true
+        }
+      },
+      "pcf": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "ausf": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      },
+      "udr": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1300k",
+          "drop": true
+        }
+      },
+      "smf": {
+        "enable": true,
+        "egress": {
+          "rate": "1000kbit",
+          "burst": "1000kbit",
+          "limit": "1000k"
+        },
+        "ingress": {
+          "rate": "1000kbit",
+          "burst": "1000k",
+          "drop": true
+        }
+      }
+    }
+  }
+}

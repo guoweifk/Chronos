@@ -1,0 +1,125 @@
+===== 开始记录完整流程日志（长监听 + 扰动控制模式） =====
+
+
+===== 长监听任务启动 =====
+
+[监听配置] python_cmd_path = python_cmd.json===== 扰动控制 Web 服务启动 =====
+说明：
+  - 调用 /attack/start 触发一次 HTTP 扰动注入；
+
+  - 调用 /attack/status 查看当前扰动状态；
+  - 监控线程会根据扰动状态，持续打印不同的过程描述。
+
+[监听配置] netem_config_path = parameter_set_case1.json
+[监听配置] storage_dir = storage
+
+[扰动配置] 已检测到扰动参数文件（parameter_set）：
+ * Serving Flask app 'start_attack'
+ * Debug mode: off
+[关键地形] 当前 minimal_subgraph 已更新并写入: storage\minimal_subgraph_latest.txt
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动配置] 当前扰动参数（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动配置] 当前扰动参数（parameter_set）：
+{
+  "192.168.2.184": {
+    "services": {
+      "AMF": {
+        "enable": true,
+        "egress": {
+          "rate": "500kbit",
+          "burst": "100kbit",
+          "limit": "100k"
+        },
+        "ingress": {
+          "rate": "500kbit",
+          "burst": "500k",
+          "drop": true
+        }
+      },
+      "SMF": {
+        "enable": true,
+        "egress": {
+          "rate": "5000kbit",
+          "burst": "5000kbit",
+          "limit": "5000k"
+        },
+        "ingress": {
+          "rate": "3300kbit",
+          "burst": "3300k",
+          "drop": true
+        }
+      }
+    }
+  }
+}
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+

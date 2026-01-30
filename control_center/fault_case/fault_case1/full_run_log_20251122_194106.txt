@@ -1,0 +1,502 @@
+===== 开始记录完整流程日志（长监听 + 扰动控制模式） =====
+
+===== 扰动控制 Web 服务启动 =====
+说明：
+  - 调用 /attack/start 触发一次 HTTP 扰动注入；
+
+===== 长监听任务启动 =====
+
+  - 调用 /attack/status 查看当前扰动状态；
+  - 监控线程会根据扰动状态，持续打印不同的过程描述。
+
+[监听配置] python_cmd_path = python_cmd.json
+[监听配置] netem_config_path = parameter_set_case1.json
+[监听配置] storage_dir = storage
+
+[扰动配置] 已检测到扰动参数文件（parameter_set）：
+ * Serving Flask app 'start_attack'
+ * Debug mode: off
+[关键地形] 当前 minimal_subgraph 已更新并写入: storage\minimal_subgraph_latest.txt
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: None, 时间: None)
+
+
+[扰动开始] 2025-11-22 19:42:15 开始执行 HTTP 扰动注入...
+[扰动开始] HTTP 请求失败: HTTPConnectionPool(host='192.168.80.200', port=8080): Max retries exceeded with url: /zh/start (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDC7DAB550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+
+
+[周期状态] 当前网元原始状态行（每10秒输出一次）:
+ - UPF  RUNNING
+ - SMF  RUNNING
+ - AMF  RUNNING
+ - NSSF  RUNNING
+ - PCF  RUNNING
+ - AUSF  RUNNING
+ - BSF  RUNNING
+ - UDR  RUNNING
+ - WEBUI  RUNNING
+ - UDM  RUNNING
+ - MONGO  RUNNING
+ - GRAFANA  RUNNING
+ - NRF  RUNNING
+ - METRICS  RUNNING
+ - SCP  RUNNING
+[周期状态] 当前未检测到 EXITED/DOWN，系统整体处于健康状态。
+[扰动过程监控] 当前尚未通过 /attack/start 注入扰动，等待触发指令... (最近结果: failed, 时间: 2025-11-22 19:42:18)
+

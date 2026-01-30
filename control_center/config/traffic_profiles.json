@@ -1,0 +1,17 @@
+{
+  "192.168.41.6": {
+    "services": {
+      "SGWC": [
+        {
+          "action": "stop",
+          "target_ip": "172.22.0.9",
+          "target_port": "9000",
+          "rate": "300",
+          "count": 0,
+          "interval": 0.1
+        }
+      ]
+    }
+  }
+}
+
