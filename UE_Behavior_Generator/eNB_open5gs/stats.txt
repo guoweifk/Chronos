@@ -1,0 +1,962 @@
+2025-08-24 00:49:02 [S1AP Stats] 接收: 0.6/s, 处理: 0.4/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 196.09ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:02 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 196.02ms(avg), status_update: 0.00ms(avg), total_processing: 196.09ms(avg), 
+2025-08-24 00:49:07 [S1AP Stats] 接收: 0.6/s, 处理: 0.6/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:07 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:12 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:12 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:17 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:17 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:22 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:22 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:27 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:27 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:32 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:32 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:37 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:37 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:49:42 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 153.04ms, 最大处理时间: 388.79ms
+2025-08-24 00:49:42 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 152.72ms(avg), status_update: 0.23ms(avg), total_processing: 153.04ms(avg), 
+2025-08-24 00:50:02 [S1AP Stats] 接收: 1.6/s, 处理: 1.4/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 107.10ms, 最大处理时间: 346.74ms
+2025-08-24 00:50:02 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 106.81ms(avg), status_update: 0.20ms(avg), total_processing: 107.10ms(avg), 
+2025-08-24 00:50:07 [S1AP Stats] 接收: 0.4/s, 处理: 0.4/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 121.83ms, 最大处理时间: 346.74ms
+2025-08-24 00:50:07 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 121.56ms(avg), status_update: 0.19ms(avg), total_processing: 121.83ms(avg), 
+2025-08-24 00:50:12 [S1AP Stats] 接收: 0.8/s, 处理: 0.8/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 138.53ms, 最大处理时间: 348.73ms
+2025-08-24 00:50:12 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 138.28ms(avg), status_update: 0.17ms(avg), total_processing: 138.53ms(avg), 
+2025-08-24 00:52:23 [S1AP Stats] 接收: 1.6/s, 处理: 1.4/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 106.49ms, 最大处理时间: 347.12ms
+2025-08-24 00:52:23 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 106.23ms(avg), status_update: 0.19ms(avg), total_processing: 106.49ms(avg), 
+2025-08-24 00:52:28 [S1AP Stats] 接收: 0.4/s, 处理: 0.4/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 119.83ms, 最大处理时间: 347.12ms
+2025-08-24 00:52:28 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 119.58ms(avg), status_update: 0.18ms(avg), total_processing: 119.83ms(avg), 
+2025-08-24 00:53:19 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.87ms, 最大处理时间: 345.42ms
+2025-08-24 00:53:19 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 78.63ms(avg), status_update: 0.16ms(avg), total_processing: 78.87ms(avg), 
+2025-08-24 00:54:38 [S1AP Stats] 接收: 1.4/s, 处理: 1.2/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 66.32ms, 最大处理时间: 344.99ms
+2025-08-24 00:54:38 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 66.06ms(avg), status_update: 0.18ms(avg), total_processing: 66.32ms(avg), 
+2025-08-24 00:59:27 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 80.29ms, 最大处理时间: 343.77ms
+2025-08-24 00:59:27 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 79.92ms(avg), status_update: 0.29ms(avg), total_processing: 80.29ms(avg), 
+2025-08-24 01:00:15 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 80.23ms, 最大处理时间: 345.18ms
+2025-08-24 01:00:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 79.94ms(avg), status_update: 0.20ms(avg), total_processing: 80.23ms(avg), 
+2025-08-24 01:05:01 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 79.99ms, 最大处理时间: 345.63ms
+2025-08-24 01:05:01 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 79.69ms(avg), status_update: 0.23ms(avg), total_processing: 79.99ms(avg), 
+2025-08-24 01:05:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 79.99ms, 最大处理时间: 345.63ms
+2025-08-24 01:05:06 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 79.69ms(avg), status_update: 0.23ms(avg), total_processing: 79.99ms(avg), 
+2025-08-24 01:06:28 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.62ms, 最大处理时间: 344.07ms
+2025-08-24 01:06:28 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 78.35ms(avg), status_update: 0.18ms(avg), total_processing: 78.62ms(avg), 
+2025-08-24 01:06:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.62ms, 最大处理时间: 344.07ms
+2025-08-24 01:06:33 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 78.35ms(avg), status_update: 0.18ms(avg), total_processing: 78.62ms(avg), 
+2025-08-24 01:07:15 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 79.21ms, 最大处理时间: 348.87ms
+2025-08-24 01:07:15 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 78.94ms(avg), status_update: 0.19ms(avg), total_processing: 79.21ms(avg), 
+2025-08-24 01:07:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 79.21ms, 最大处理时间: 348.87ms
+2025-08-24 01:07:20 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 78.94ms(avg), status_update: 0.19ms(avg), total_processing: 79.21ms(avg), 
+2025-08-24 01:07:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 79.21ms, 最大处理时间: 348.87ms
+2025-08-24 01:07:25 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 78.94ms(avg), status_update: 0.19ms(avg), total_processing: 79.21ms(avg), 
+2025-08-24 01:14:16 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 77.99ms, 最大处理时间: 343.60ms
+2025-08-24 01:14:16 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 77.74ms(avg), status_update: 0.18ms(avg), total_processing: 77.99ms(avg), 
+2025-08-24 01:14:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 77.99ms, 最大处理时间: 343.60ms
+2025-08-24 01:14:21 [详细性能] message_parse: 0.03ms(avg), ue_lookup: 0.01ms(avg), process_s1ap: 77.74ms(avg), status_update: 0.18ms(avg), total_processing: 77.99ms(avg), 
+2025-08-24 01:14:31 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:14:31 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:14:36 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:14:36 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:14:41 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:14:41 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:14:46 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:14:46 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:14:51 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:14:51 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:14:56 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:14:56 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:01 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:01 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:06 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:11 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:11 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:16 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:16 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:21 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:26 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:26 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:31 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:31 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:36 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:36 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:41 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:41 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:46 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:46 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:51 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:51 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:15:56 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:15:56 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:01 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:01 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:06 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:11 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:11 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:16 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:16 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:21 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:26 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:26 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:31 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:31 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:36 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:36 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:41 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:41 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:46 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:46 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:51 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:51 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:16:56 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:16:56 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:01 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:01 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:06 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:11 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:11 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:16 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:16 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:21 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:27 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:27 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:32 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:32 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:37 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:37 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:42 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:42 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:47 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:47 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:52 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:52 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:17:57 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:17:57 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:02 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:02 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:07 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:07 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:12 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:12 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:17 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:17 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:22 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:22 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:27 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:27 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:32 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:32 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:37 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:37 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:42 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:42 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:47 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:47 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:52 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:52 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:18:57 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:18:57 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:02 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:02 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:07 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:07 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:12 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:12 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:17 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:17 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:22 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:22 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:27 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:27 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:32 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:32 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:37 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:37 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:42 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:42 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:47 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:47 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:52 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:52 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:19:57 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:19:57 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:02 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:02 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:20:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:20:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:21:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:21:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:22:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:22:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:23:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:23:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:24:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:24:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:25:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:25:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:26:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:26:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:27:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:27:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:28:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:28:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:29:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:29:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:30:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:30:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:31:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:31:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:08 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:13 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:18 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:23 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:28 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:33 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:38 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:43 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:48 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:53 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:32:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:32:58 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:03 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:34 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:34 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:39 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:39 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:44 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:44 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:49 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:49 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:54 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:54 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:33:59 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:33:59 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:04 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:04 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:34 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:34 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:39 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:39 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:44 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:44 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:49 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:49 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:54 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:54 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:34:59 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:34:59 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:04 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:04 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:34 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:34 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:39 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:39 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:44 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:44 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:49 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:49 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:54 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:54 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:35:59 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:35:59 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:04 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:04 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:34 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:34 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:39 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:39 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:44 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:44 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:49 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:49 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:54 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:54 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:36:59 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:36:59 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:04 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:04 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:34 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:34 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:39 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:39 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:44 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:44 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:49 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:49 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:54 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:54 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:37:59 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:37:59 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:04 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:04 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:34 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:34 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:39 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:39 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:44 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:44 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:49 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:49 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:54 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:54 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:38:59 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:38:59 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:04 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:04 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:09 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:09 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:14 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:14 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:19 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:19 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:24 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:24 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:29 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:29 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:39:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:39:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:40:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:40:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:41:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:41:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:42:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:42:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:43:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:43:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:44:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:44:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:45:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:45:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:46:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:46:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:05 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:05 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:10 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:10 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:15 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:15 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:20 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:20 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:25 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:25 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:30 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:30 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:35 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:35 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:40 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:40 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:45 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:45 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:50 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:50 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:47:55 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:47:55 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:00 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:00 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:06 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:11 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:11 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:16 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:16 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:21 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:26 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:26 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:31 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:31 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:36 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:36 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:41 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:41 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:46 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:46 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:51 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:51 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:48:56 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:48:56 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:49:01 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:49:01 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:49:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:49:06 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:49:11 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:49:11 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:49:16 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:49:16 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:49:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 78.12ms, 最大处理时间: 340.19ms
+2025-08-24 01:49:21 [详细性能] message_parse: 0.04ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 77.83ms(avg), status_update: 0.21ms(avg), total_processing: 78.12ms(avg), 
+2025-08-24 01:57:37 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.23ms, 最大处理时间: 334.27ms
+2025-08-24 01:57:37 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 74.04ms(avg), status_update: 0.13ms(avg), total_processing: 74.23ms(avg), 
+2025-08-24 01:57:42 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.23ms, 最大处理时间: 334.27ms
+2025-08-24 01:57:42 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 74.04ms(avg), status_update: 0.13ms(avg), total_processing: 74.23ms(avg), 
+2025-08-24 01:57:51 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 73.34ms, 最大处理时间: 332.61ms
+2025-08-24 01:57:51 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.15ms(avg), status_update: 0.13ms(avg), total_processing: 73.34ms(avg), 
+2025-08-24 01:59:09 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.17ms, 最大处理时间: 333.85ms
+2025-08-24 01:59:09 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.98ms(avg), status_update: 0.13ms(avg), total_processing: 74.17ms(avg), 
+2025-08-24 01:59:21 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:21 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:26 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:26 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:31 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:31 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:36 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:36 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:41 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:41 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:46 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:46 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:51 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:51 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 01:59:56 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 01:59:56 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 02:00:01 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 02:00:01 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 02:00:06 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 02:00:06 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 02:00:11 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 02:00:11 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 02:00:16 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 02:00:16 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 02:00:21 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 72.96ms, 最大处理时间: 332.41ms
+2025-08-24 02:00:21 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 72.77ms(avg), status_update: 0.13ms(avg), total_processing: 72.96ms(avg), 
+2025-08-24 02:00:33 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:00:33 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:00:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:00:38 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:00:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:00:43 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:00:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:00:48 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:00:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:00:53 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:00:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:00:58 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:03 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:08 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:08 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:13 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:13 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:18 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:18 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:23 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:23 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:28 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:28 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:33 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:33 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:38 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:38 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:43 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:43 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:48 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:48 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:53 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:53 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:01:58 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:01:58 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:02:03 [S1AP Stats] 接收: 0.0/s, 处理: 0.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 74.15ms, 最大处理时间: 333.98ms
+2025-08-24 02:02:03 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.96ms(avg), status_update: 0.13ms(avg), total_processing: 74.15ms(avg), 
+2025-08-24 02:04:39 [S1AP Stats] 接收: 1.2/s, 处理: 1.0/s, 队列: 0, 错误: 0, 队列满: 0, 丢弃: 0, 活跃worker: 128/128, 峰值: 128, 平均处理时间: 73.92ms, 最大处理时间: 333.83ms
+2025-08-24 02:04:39 [详细性能] message_parse: 0.02ms(avg), ue_lookup: 0.00ms(avg), process_s1ap: 73.73ms(avg), status_update: 0.14ms(avg), total_processing: 73.92ms(avg), 

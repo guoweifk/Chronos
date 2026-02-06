@@ -1,0 +1,65 @@
+Interleaving:
+ours:
+https://github.com/open5gs/open5gs/issues/3707         CVE-2025-1893
+https://github.com/open5gs/open5gs/pull/3711           CVE-2025-1925
+https://github.com/open5gs/open5gs/issues/3671         CVE-2025-25774
+https://github.com/open5gs/open5gs/discussions/3919    CVE-2025-52322
+https://github.com/open5gs/open5gs/issues/3979         CVE-2025-8799
+https://github.com/open5gs/open5gs/issues/3977         CVE-2025-8801
+https://github.com/open5gs/open5gs/issues/3978         CVE-2025-8802
+https://github.com/open5gs/open5gs/issues/3948         CVE-2025-8803
+https://github.com/open5gs/open5gs/issues/3950         CVE-2025-8804
+https://github.com/open5gs/open5gs/issues/4000         CVE-2025-8805
+https://github.com/open5gs/open5gs/issues/3947         CVE-2025-9450
+
+reproduced:24
+https://github.com/open5gs/open5gs/issues/4274 AMF crash
+https://github.com/open5gs/open5gs/issues/4268 SGWC crash
+https://github.com/open5gs/open5gs/issues/4236 MME crash
+https://github.com/open5gs/open5gs/issues/4226 SGWC crash
+https://github.com/open5gs/open5gs/issues/4225 SGWC crash
+https://github.com/open5gs/open5gs/issues/4174 AMF crash
+https://github.com/open5gs/open5gs/issues/4172 MME crash
+https://github.com/open5gs/open5gs/issues/4149 SGWU crash
+https://github.com/open5gs/open5gs/issues/4131 MME crash
+https://github.com/open5gs/open5gs/issues/4086 MME crash
+https://github.com/open5gs/open5gs/issues/4082 AMF crash
+https://github.com/open5gs/open5gs/issues/4075 AMF crash
+https://github.com/open5gs/open5gs/issues/4074 AMF crash
+https://github.com/open5gs/open5gs/issues/4073 MME crash
+https://github.com/open5gs/open5gs/issues/4012 AMF crash
+https://github.com/open5gs/open5gs/issues/3971 AMF crash
+https://github.com/open5gs/open5gs/issues/3969 SMF crash
+https://github.com/open5gs/open5gs/issues/3959 SMF crash
+https://github.com/open5gs/open5gs/issues/3938 AMF crash
+https://github.com/open5gs/open5gs/issues/3912 AMF crash
+https://github.com/open5gs/open5gs/issues/3851 AMF crash
+https://github.com/open5gs/open5gs/issues/3789
+https://github.com/open5gs/open5gs/issues/3774
+https://github.com/open5gs/open5gs/issues/3612
+https://github.com/open5gs/open5gs/issues/3608
+
+
+Nested
+ours:
+requested
+
+reproduced: 7
+https://github.com/open5gs/open5gs/issues/4230 SGWC crash
+https://github.com/open5gs/open5gs/issues/4229 SGWC crash
+https://github.com/open5gs/open5gs/issues/3910 AMF crash
+https://github.com/open5gs/open5gs/issues/3909 AMF crash
+https://github.com/open5gs/open5gs/issues/3874 AMF crash
+https://github.com/open5gs/open5gs/issues/3868 AMF crash
+https://github.com/open5gs/open5gs/issues/3852 AMF crash
+
+Incomplete:
+ours:
+requested
+https://github.com/free5gc/free5gc/issues/811
+https://github.com/free5gc/free5gc/issues/810
+
+reproduced:3
+https://github.com/open5gs/open5gs/issues/4267
+https://github.com/open5gs/open5gs/issues/4266
+https://github.com/free5gc/nrf/issues/47
