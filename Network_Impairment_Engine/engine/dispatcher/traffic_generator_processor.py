@@ -7,12 +7,12 @@
 @project: GW_My_tools
 @describe: Powered By GW
 """
-from Network_Impairment_Engine.dispatcher.base_processor import BaseProcessor
+from Network_Impairment_Engine.engine.dispatcher.base_processor import BaseProcessor
 import multiprocessing
 from typing import Dict
-from Network_Impairment_Engine.utils.logutil import get_logger
-from Network_Impairment_Engine.utils.traffic_worker import traffic_worker
-from Network_Impairment_Engine.message.base_message import AgentTrafficMessage, AgentTrafficPayload
+from Network_Impairment_Engine.engine.utils.logutil import get_logger
+from Network_Impairment_Engine.engine.utils.traffic_worker import traffic_worker
+from Network_Impairment_Engine.engine.message.base_message import AgentTrafficMessage
 
 logger = get_logger("load_control_agent")
 

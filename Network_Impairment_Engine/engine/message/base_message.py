@@ -8,8 +8,8 @@
 @describe: Powered By GW
 """
 
-from Network_Impairment_Engine.message.payloads.netem import AgentNetemPayload
-from Network_Impairment_Engine.message.payloads.traffic import AgentTrafficPayload
+from Network_Impairment_Engine.engine.message.payloads.netem import AgentNetemPayload
+from Network_Impairment_Engine.engine.message.payloads.traffic import AgentTrafficPayload
 from dataclasses import dataclass
 from typing import Optional,List
 from abc import ABC

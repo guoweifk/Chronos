@@ -23,7 +23,7 @@ sys.path.insert(0, PROJECT_ROOT)
 from Timing_Scenario_Orchestrator.control_server.utils.logutil import get_logger
 
 logger = get_logger("load_control_manager")
-SERVER_PORT = 22222  # 容器内部 Network_Impairment_Engine 监听端口
+SERVER_PORT = 22222  # 容器内部 engine 监听端口
 logger.info(f"[启动] PROJECT_ROOT:  {PROJECT_ROOT}")
 
 

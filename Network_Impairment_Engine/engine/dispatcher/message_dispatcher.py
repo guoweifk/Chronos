@@ -7,10 +7,10 @@
 @project: GW_My_tools
 @describe: Powered By GW
 """
-from Network_Impairment_Engine.dispatcher.netem_processor import NetemProcessor
-from Network_Impairment_Engine.dispatcher.traffic_generator_processor import TrafficGeneratorProcessor
-from Network_Impairment_Engine.message.base_message import AgentNetemMessage,AgentTrafficMessage
-from Network_Impairment_Engine.utils.logutil import get_logger
+from Network_Impairment_Engine.engine.dispatcher.netem_processor import NetemProcessor
+from Network_Impairment_Engine.engine.dispatcher.traffic_generator_processor import TrafficGeneratorProcessor
+from Network_Impairment_Engine.engine.message.base_message import AgentNetemMessage,AgentTrafficMessage
+from Network_Impairment_Engine.engine.utils.logutil import get_logger
 
 logger = get_logger("load_control_agent")
 

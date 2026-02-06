@@ -6,7 +6,7 @@ AGENT_PORT = 22222  # 自己的端口
 
 def send_to_server(agent_ip: str, message_obj):
     """
-    发送消息到 Network_Impairment_Engine，并尝试读取对方返回的 JSON 结果。
+    发送消息到 engine，并尝试读取对方返回的 JSON 结果。
 
     返回:
         (success, response)
@@ -41,11 +41,11 @@ def send_to_server(agent_ip: str, message_obj):
                 chunks.append(data)
 
         if not chunks:
-            logging.info(f"[✓] 成功发送消息到 Network_Impairment_Engine {agent_ip}，但对方未返回数据")
+            logging.info(f"[✓] 成功发送消息到 engine {agent_ip}，但对方未返回数据")
             return True, None
 
         raw_resp = b"".join(chunks).decode("utf-8", errors="replace")
-        logging.debug(f"[←] 从 Network_Impairment_Engine {agent_ip} 收到响应: {raw_resp}")
+        logging.debug(f"[←] 从 engine {agent_ip} 收到响应: {raw_resp}")
 
         # 尝试按 JSON 解析
         try:
@@ -56,5 +56,5 @@ def send_to_server(agent_ip: str, message_obj):
             return True, raw_resp
 
     except Exception as e:
-        logging.error(f"[×] 发送消息到 Network_Impairment_Engine {agent_ip} 失败: {e}")
+        logging.error(f"[×] 发送消息到 engine {agent_ip} 失败: {e}")
         return False, None

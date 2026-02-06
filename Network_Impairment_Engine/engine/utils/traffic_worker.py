@@ -9,7 +9,7 @@
 """
 import socket
 import time
-from Network_Impairment_Engine.utils.logutil import get_logger
+from Network_Impairment_Engine.engine.utils.logutil import get_logger
 
 logger = get_logger("load_control_agent")
 

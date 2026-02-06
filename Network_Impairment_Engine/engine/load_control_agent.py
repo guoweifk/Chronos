@@ -10,16 +10,16 @@
 
 import socket
 import json
-from Network_Impairment_Engine.dispatcher.message_dispatcher import AgentMessageDispatcher
+from Network_Impairment_Engine.engine.dispatcher.message_dispatcher import AgentMessageDispatcher
 import os
 import sys
 
-# 把 Network_Impairment_Engine 上一层（）加入 sys.path
+# 把 engine 上一层（）加入 sys.path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # control_server/
 PROJECT_ROOT = os.path.dirname(BASE_DIR)  # docker_open5gs/
 sys.path.insert(0, PROJECT_ROOT)
 
-from Network_Impairment_Engine.utils.logutil import get_logger
+from Network_Impairment_Engine.engine.utils.logutil import get_logger
 
 logger = get_logger("load_control_agent")
 

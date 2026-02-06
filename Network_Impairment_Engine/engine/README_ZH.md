@@ -1,12 +1,12 @@
 # Agent 模块说明
 
-`agent` 模块是系统的边缘执行组件，负责根据控制中心下发的指令，执行流量模拟和网络控制操作。其设计目标是在模拟环境中对网络行为进行可控注入与动态调整，便于测试系统在不同负载或异常条件下的响应能力。
+`engine` 模块是系统的边缘执行组件，负责根据控制中心下发的指令，执行流量模拟和网络控制操作。其设计目标是在模拟环境中对网络行为进行可控注入与动态调整，便于测试系统在不同负载或异常条件下的响应能力。
 
 ## 核心功能
 
 ### 1. 接收控制信息
 
-`agent` 模块监听来自控制端的消息，根据消息类型执行对应操作：
+`engine` 模块监听来自控制端的消息，根据消息类型执行对应操作：
 
 - **带宽控制**：使用 `tc` 工具配置网络接口的发送/接收速率等参数。
 - **发送流量**：
@@ -29,15 +29,15 @@ apt update && apt install -y ifstat
 
 ### 1. 复制 Agent 目录
 
-将本 `agent` 文件夹复制到 `docker_open5gs` 根目录下：
+将本 `engine` 文件夹复制到 `docker_open5gs` 根目录下：
 
 ```bash
-cp -r Network_Impairment_Engine /path/to/docker_open5gs/
+cp -r engine /path/to/docker_open5gs/
 ```
 目录结构类似：
 ```yaml
 docker_open5gs/
-├── Network_Impairment_Engine/
+├── engine/
 │   ├── __init__.py
 │   ├── load_control_agent.py
 │   └── ...
@@ -50,11 +50,11 @@ docker_open5gs/
 ✅ 增加挂载目录
 ```yaml
 volumes:
-  - ./Network_Impairment_Engine:/opt/Network_Impairment_Engine
+  - ./engine:/opt/engine
 ```
 ✅ 设置启动命令
 ```yaml
-command: bash -c "cd /opt && python3 -m Network_Impairment_Engine.load_control_agent & cd /open5gs && bash ../open5gs_init.sh && wait"
+command: bash -c "cd /opt && python3 -m engine.load_control_agent & cd /open5gs && bash ../open5gs_init.sh && wait"
 ```
 
 ✅ 暴露控制端口
@@ -87,8 +87,8 @@ nssf:
     - ./log:/open5gs/install/var/log/open5gs
     - /etc/timezone:/etc/timezone:ro
     - /etc/localtime:/etc/localtime:ro
-    - ./Network_Impairment_Engine:/opt/Network_Impairment_Engine
-  command: bash -c "cd /opt && python3 -m Network_Impairment_Engine.load_control_agent & cd /open5gs && bash ../open5gs_init.sh && wait"
+    - ./engine:/opt/engine
+  command: bash -c "cd /opt && python3 -m engine.load_control_agent & cd /open5gs && bash ../open5gs_init.sh && wait"
   expose:
     - "7777/tcp"
     - "7799/tcp"

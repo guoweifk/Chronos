@@ -34,7 +34,7 @@
 将本 `control_server` 文件夹复制到 `docker_open5gs` 根目录下：
 
 ```bash
-cp -r Network_Impairment_Engine /path/to/docker_open5gs/
+cp -r engine /path/to/docker_open5gs/
 ```
 目录结构类似：
 ```yaml
