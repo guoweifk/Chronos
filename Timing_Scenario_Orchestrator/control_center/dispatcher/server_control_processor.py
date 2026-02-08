@@ -36,7 +36,7 @@ def send_server_link_limit_config_to_server():
       ]
     }
     """
-    file_name = "qiantong.json"
+    file_name = "com_A.json"
     config_path = os.path.join(current_dir, "..", "config", file_name)
     config_path = os.path.abspath(config_path)
 

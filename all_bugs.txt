@@ -3,7 +3,7 @@ ours:
 https://github.com/open5gs/open5gs/issues/3707         CVE-2025-1893
 https://github.com/open5gs/open5gs/pull/3711           CVE-2025-1925
 https://github.com/open5gs/open5gs/issues/3671         CVE-2025-25774
-https://github.com/open5gs/open5gs/discussions/3919    CVE-2025-52322
+https://github.com/open5gs/open5gs/issues/3862         CVE-2025-52288
 https://github.com/open5gs/open5gs/issues/3979         CVE-2025-8799
 https://github.com/open5gs/open5gs/issues/3977         CVE-2025-8801
 https://github.com/open5gs/open5gs/issues/3978         CVE-2025-8802
@@ -56,8 +56,6 @@ https://github.com/open5gs/open5gs/issues/3852 AMF crash
 Incomplete:
 ours:
 requested
-https://github.com/free5gc/free5gc/issues/811
-https://github.com/free5gc/free5gc/issues/810
 
 reproduced:3
 https://github.com/open5gs/open5gs/issues/4267

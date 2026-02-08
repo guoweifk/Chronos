@@ -1,4 +1,4 @@
-# Agent 模块说明
+# Network_Impairment_Engine 模块说明
 
 `engine` 模块是系统的边缘执行组件，负责根据控制中心下发的指令，执行流量模拟和网络控制操作。其设计目标是在模拟环境中对网络行为进行可控注入与动态调整，便于测试系统在不同负载或异常条件下的响应能力。
 
@@ -27,7 +27,7 @@ apt update && apt install -y ifstat
 ```
 ## 安装教程
 
-### 1. 复制 Agent 目录
+### 1. 复制 Engine 目录
 
 将本 `engine` 文件夹复制到 `docker_open5gs` 根目录下：
 
@@ -45,7 +45,7 @@ docker_open5gs/
 └── ...
 ```
 ### 2. 修改 docker-compose.yaml 文件
-在docker-compose.yaml 文件中，修改每个需要运行 agent 的核心网网元容器（如 amf、smf、nssf 等）对应配置：
+在docker-compose.yaml 文件中，修改每个需要运行 engine 的核心网网元容器（如 amf、smf、nssf 等）对应配置：
 
 ✅ 增加挂载目录
 ```yaml
@@ -101,11 +101,3 @@ nssf:
 ```
 
 然后重新docker compose -f docker-compose.yaml up 即可
-
-日志在docker_open5gs的每个网元目录下，比如
-![img.png](window_img.png)
-
-
-
-## 效果示例
-![img.png](result_img.png)
